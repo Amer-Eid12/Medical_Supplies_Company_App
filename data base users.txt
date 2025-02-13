@@ -1,0 +1,12 @@
+INSERT INTO login (username, password) VALUES
+    ('omar_manager' , 'omar_manager'),
+    ('waad_ziadeh', 'waad123'),      
+    ('yara_qaraqe', 'yara123'),   
+    ('amer_eid', 'amer123'),         
+    ('jana_alaa', 'jana123'),       
+    ('khaled', 'khaled123'),          
+    ('ahmad', 'ahmad123'),          
+    ('adnan', 'adnan123'),
+    ('customer1', 'pass123'),
+    ('customer2', 'pass456'),
+    ('customer3', 'pass789');
